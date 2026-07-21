@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm Anish Raj
-**Full Stack Developer 🧑‍💻 || Hackathon Winner 🏆 || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js ||**
+# 💫 Hi 👋, I'm RITU
+**Full Stack Developer 🧑‍💻  || Android Developer || Web Developer || Software Developer || TypeScript || Next.js || DSA || C++ || Java || JavaScript || React || MongoDB || Express || Node.js ||**
 
-Email Me 👉 ✉️ **anishkumar9905287@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** self
 - 🌱 **I’m currently learning:** AI/ML, Kubernetes
