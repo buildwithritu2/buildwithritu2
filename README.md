@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Self Project**
 
-- 🌱 I’m currently learning **AI/ML, Kubernetes, Android Developer, Software Developer , TypeScript**
+- 🌱 I’m currently learning **AI/ML, Kubernetes, Android Developer **
 
 - 👯 I’m looking to collaborate on **NEW PROJECT**
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [rituprotfolio.com](rituprotfolio.com)
 
-- 📝 I regularly write articles on [Coding, AI & Software Development](Coding, AI & Software Development)
+- 📝 I regularly write articles on **Coding, AI & Software Development**
 
 - 💬 Ask me about **Collaboration, Tech Support**
 
