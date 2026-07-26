@@ -1,7 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/buildwithritu2)
 
-<img src="https://raw.githubusercontent.com/buildwithritu2/buildwithritu2/main/assets/banner.gif" width="100%" />
-
 <h1 align="center">Hi 👋, I'm Ritu</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
 
@@ -44,7 +42,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buildwithritu2&show_icons=true&locale=en&layout=compact" alt="buildwithritu2" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buildwithritu2&show_icons=true&locale=en" alt="buildwithritu2" /></p>
+<img src="https://raw.githubusercontent.com/buildwithritu2/buildwithritu2/main/assets/banner.gif" width="100%" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithritu2&" alt="buildwithritu2" /></p>
 
