@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Self Project**
 
-- 🌱 I’m currently learning **AI/ML, Kubernetes, Android Developer **
+- 🌱 I’m currently learning **AI/ML, Kubernetes**
 
 - 👯 I’m looking to collaborate on **NEW PROJECT**
 
