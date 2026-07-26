@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/buildwithritu2)
 
-
+<img src="https://raw.githubusercontent.com/buildwithritu2/buildwithritu2/main/assets/banner.gif" width="100%" />
 
 <h1 align="center">Hi 👋, I'm Ritu</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
