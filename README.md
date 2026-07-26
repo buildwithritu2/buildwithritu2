@@ -9,25 +9,25 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwithritu2&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithritu2" /> </p>
 
 
-- 🔭 I’m currently working on **Self Project**
+- 🔭 I’m currently working on: **Self Project**
 
-- 🌱 I’m currently learning **AI/ML, Kubernetes**
+- 🌱 I’m currently learning: **AI/ML, Kubernetes**
 
-- 👯 I’m looking to collaborate on **NEW PROJECT**
+- 👯 I’m looking to collaborate on: **NEW PROJECT**
 
-- 🤝 I’m looking for help with **COMMING SOON**
+- 🤝 I’m looking for help with: **COMMING SOON**
 
-- 👨‍💻 All of my projects are available at [rituprotfolio.com](rituprotfolio.com)
+- 👨‍💻 All of my projects are available at: [rituprotfolio.com](rituprotfolio.com)
 
-- 📝 I regularly write articles on **Coding, AI & Software Development**
+- 📝 I regularly write articles on: **Coding, AI & Software Development**
 
-- 💬 Ask me about **Collaboration, Tech Support**
+- 💬 Ask me about: **Collaboration, Tech Support**
 
-- 📫 How to reach me **ritu53794l@gmail.com**
+- 📫 How to reach me: **ritu53794l@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing](https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing](https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing)
 
-- ⚡ Fun fact **Coffee + Code = My Happy Place**
+- ⚡ Fun fact: **Coffee + Code = My Happy Place**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
