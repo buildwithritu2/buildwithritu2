@@ -10,7 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buildwithritu2&label=Profile%20views&color=0e75b6&style=flat" alt="buildwithritu2" /> </p>
 
-<img src="https://raw.githubusercontent.com/buildwithritu2/buildwithritu2/main/assets/banner.gif" width="100%" />
 
 - 🔭 I’m currently working on **Self Project**
 
