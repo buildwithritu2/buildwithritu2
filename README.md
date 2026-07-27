@@ -3,7 +3,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/buildwithritu2)
 
 <h1 align="center">Hi 👋, I'm Ritu</h1>
-<h3 align="center">A passionate frontend & backend developer from India</h3>
+<h3 align="center">A passionate frontend & backend developer </h3>
 
 <img align="right" alt="Coding" width="400" src="https://img.magnific.com/premium-photo/anime-girl-programmer-coding-computer_1222783-19454.jpg">
 
