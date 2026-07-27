@@ -1,11 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## 📜 Copyright Notice
-
-© 2026 Ritu (buildwithritu2). All Rights Reserved.
-
-🚫 Copying, modifying, redistributing, or using this repository or its contents without prior written permission is strictly prohibited.
-
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/buildwithritu2)
 
 <h1 align="center">Hi 👋, I'm Ritu</h1>
@@ -57,5 +51,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithritu2&" alt="buildwithritu2" /></p>
 
+## 📜 Copyright Notice
+
+© 2026 Ritu (buildwithritu2). All Rights Reserved.
+
+🚫 Copying, modifying, redistributing, or using this repository or its contents without prior written permission is strictly prohibited.
 
 
