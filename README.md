@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/buildwithritu2)
 
 <h1 align="center">Hi 👋, I'm Ritu</h1>
@@ -49,5 +51,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buildwithritu2&" alt="buildwithritu2" /></p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
