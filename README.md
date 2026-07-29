@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on: **Self Project**
 
-- 🌱 I’m currently learning: **AI/ML, Kubernetes**
+- 🌱 I’m currently learning: **web developer**
 
 - 👯 I’m looking to collaborate on: **NEW PROJECT**
 
