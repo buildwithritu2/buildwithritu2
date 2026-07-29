@@ -27,7 +27,7 @@
 
 - 📫 How to reach me: **ritu53794l@gmail.com**
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing](https://drive.google.com/file/d/1XB7im75LN8LLp7Cx2C1sJjQJHN14uPxh/view?usp=sharing)
+- 📄 Know about my experiences:
 
 - ⚡ Fun fact: **Coffee + Code = My Happy Place**
 
